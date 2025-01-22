@@ -1,0 +1,133 @@
+body {
+  color: #434455;
+  background-color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 2%;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header-two {
+  color: #2e2f42;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: normal;
+  text-transform: capitalize;
+}
+
+.header-three {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.paragraph {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.logo {
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.span-logo {
+  color: #2e2f42;
+}
+
+.nav-link {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.nav-link-hover .navlink:focus {
+  color: #404bbf;
+}
+.nav-link-focus {
+  color: #404bbf;
+}
+
+.address {
+  color: #434455;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.address-hover,
+.address-focus {
+  color: #404bbf;
+}
+
+.hero {
+  background-color: #2e2f42;
+}
+
+.hero-title {
+  color: #ffffff;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+
+.hero-button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+
+.hero-button-hover,
+.hero-button-focus {
+  background-color: #404bbf;
+}
+
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-images {
+  background-color: #ffffff;
+}
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.span-logo-footer {
+  color: #f4f4fd;
+}
+
+.paragraph-footer {
+  color: #f4f4fd;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
